@@ -15,3 +15,7 @@ plot(cars)
 ```{r}
 library(DBI)
 ```
+
+```{r}
+library(DBI)
+```
